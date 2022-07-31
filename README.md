@@ -1,2 +1,2 @@
-# Africa-Economic-Data-Visualization
-Cleaned and created a Tableau Dashboard of the sub-saharan africa economic data from the IMF website 
+# Cafeteria Dinning Credits System
+Utilized OOP design methodologies in Python to design a Cafeteria Dining Credits system.
